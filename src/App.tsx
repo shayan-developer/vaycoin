@@ -1,13 +1,11 @@
 import React, { useState, useEffect, useCallback } from "react";
 import "./App.css";
-import Hamster from "./icons/Hamster";
 import {
   binanceLogo,
   dailyCipher,
   dailyCombo,
   dailyReward,
   dollarCoin,
-  hamsterCoin,
   mainCharacter,
   vayZanetoo,
 } from "./images";
