@@ -6,7 +6,7 @@ import dailyCipher from "./daily-cipher.png";
 import dailyCombo from "./daily-combo.png";
 import mainCharacter from "./man.webp";
 import hamsterCoin from "./hamster-coin.png";
-import vayZanetoo from "./vay.mp4";
+import vayZanetoo from "./vay.gif";
 
 export {
     hamsterExchange,
