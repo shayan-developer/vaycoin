@@ -6,7 +6,15 @@ import dailyCipher from "./daily-cipher.png";
 import dailyCombo from "./daily-combo.png";
 import mainCharacter from "./man.webp";
 import hamsterCoin from "./hamster-coin.png";
+import aloo from "./aloo.jpg";
 import vayZanetoo from "./vay.gif";
+import bas from "./bas.jpg";
+import behnam from "./behnam.jfif";
+import behrooz from "./behrooz.jfif";
+import sepi from "./sepi.jpg";
+import stop from "./stop.jpg";
+import yek from "./yek.jpg";
+import pishroo from "./pishroo.jpg";
 
 export {
     hamsterExchange,
@@ -17,5 +25,15 @@ export {
     dailyCombo,
     mainCharacter,
     hamsterCoin,
-    vayZanetoo
+    vayZanetoo,
+    aloo,
+    bas,
+    behnam,
+    behrooz,
+    sepi,
+    stop,
+    yek,
+    pishroo
+
+
 };

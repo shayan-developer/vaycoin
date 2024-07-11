@@ -125,7 +125,7 @@ const Layout = () => {
           </div>
         </div>
 
-        <div className="flex-grow mt-4 border border-black border-t-[#f3ba2f] bg-[#1d2025] rounded-t-[48px] relative top-glow z-0">
+        <div className="flex-grow mt-4 border border-black border-t-[#f3ba2f] bg-[#1d2025] rounded-t-[48px] relative top-glow overflow-y-auto z-0 pb-20">
           <Outlet />
         </div>
       </div>

@@ -9,4 +9,5 @@ export interface MineItemType{
     profit: number;
     lvl: number;
     cost: number;
+    img:any
 }
