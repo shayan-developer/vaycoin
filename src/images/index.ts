@@ -15,6 +15,7 @@ import sepi from "./sepi.jpg";
 import stop from "./stop.jpg";
 import yek from "./yek.jpg";
 import pishroo from "./pishroo.jpg";
+import preLoad from "./pre.mp4";
 
 export {
     hamsterExchange,
@@ -33,7 +34,8 @@ export {
     sepi,
     stop,
     yek,
-    pishroo
+    pishroo,
+    preLoad
 
 
 };
