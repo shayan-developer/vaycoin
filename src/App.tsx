@@ -17,7 +17,7 @@ const App: React.FC = () => {
     return () => clearTimeout(timer);
   }, []);
 
-  if (loading) {
+  if (true) {
     return <Preloader />;
   }
 
