@@ -4,7 +4,7 @@ export const Preloader = () => {
   return (
     <div className="bg-black flex justify-center relative">
       <div className="w-full bg-black text-white h-screen font-bold flex flex-col max-w-xl relative overflow-hidden">
-        <div className="px-4 z-10">
+        <div className="z-10">
           <video
             className="w-full h-screen object-contain absolute top-0"
             loop
